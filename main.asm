@@ -1,3 +1,5 @@
+DEFAULT REL
+
 %include 'io.asm'
 
 SECTION	.data
